@@ -1,0 +1,12 @@
+*                                           @intel-sandbox/pact-tools-dev   @intel-sandbox/pact-devops-automation
+fw/src/apps/mca/                          @intel-sandbox/pact-test        @intel-sandbox/pact-tools-dev
+fw/src/os/bup/secure_boot/                @intel-sandbox/pact-test        @intel-sandbox/pact-tools-dev
+fw/src/os/drivers/fpf/                    @intel-sandbox/pact-test        @intel-sandbox/pact-tools-dev
+fw/src/os/drivers/gpio/                   @intel-sandbox/pact-test        @intel-sandbox/pact-tools-dev
+fw/src/os/drivers/icc/                    @intel-sandbox/pact-test        @intel-sandbox/pact-tools-dev
+fw/src/os/drivers/hci/                    @intel-sandbox/pact-test        @intel-sandbox/pact-tools-dev           @intel-sandbox/pact-devops-automation
+fw/src/sps/                               @intel-sandbox/pact-test        @intel-sandbox/pact-tools-dev           
+fw/src/sps/config/                        @intel-sandbox/pact-test        @intel-sandbox/pact-tools-dev           @intel-sandbox/pact-devops-automation
+fw/src/sps/config/xmls/                   @intel-sandbox/pact-tools-dev   @intel-sandbox/pact-test-generic
+fw/src/sps/config/tools_versions.cmake      @intel-sandbox/pact-tools-dev   @intel-sandbox/pact-test-generic
+fw/src/sps/tools/                         @intel-sandbox/pact-tools-dev   @intel-sandbox/pact-test-generic
